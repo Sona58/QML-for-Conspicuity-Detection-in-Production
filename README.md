@@ -1,6 +1,8 @@
 # QML-for-Conspicuity-Detection-in-Production
 Womanium Quantum+AI 2024 Projects
 
+**Please review the participation guidelines [here](https://github.com/womanium-quantum/Quantum-AI-2024) before starting the project.**
+
 _**Do NOT delete/ edit the format of this read.me file.**_
 
 _**Include all necessary information only as per the given format.**_
@@ -29,33 +31,20 @@ Ensure your repository is public and submitted by **August 9, 2024, 23:59pm US E
 
 Ensure your repository does not contain any personal or team tokens/access information to access backends. Ensure your repository does not contain any third-party intellectual property (logos, company names, copied literature, or code). Any resources used must be open source or appropriately referenced.
 
-
 ### Team Information:
-Team Member 1: Varda Misra
- - Email:
- - Discord ID: varda_india
- - GitHub ID:
- - Nationality: Indian
- - Current affiliation:
+Team Member 1:
+ - Full Name: Varda Misra
+ - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
 
-Team Member 2: Sonali Chawla
- - Email: s2sonali@gmail.com
- - Discord ID: Sonali_India
- - GitHub ID: Sona588
- - Nationality: India
- - Current affiliation: Sushant University
+
+Team Member 2:
+ - Full Name: Sonali Chawla
+ - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-PeCDErADJRd9p60
+
 
 ### Project Solution:
 _Include a comprehensive summary of all important information about your project solution here._
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
-_(Mapping and links for all tasks will go here)_
-
- - Task 1: (Pennylane Codebook)[]
- - Task 2: (Variational Classifier)[]
- - Task 3: (Quanvolutional Neural Networks)[]
- - Task 4: (Reproduce Sine Function)[]
- - Task 5: (Detect Defective Production)[]
 
 ### Project Presentation Deck:
 _Link a 5min. presentation recording or deck here._
-
